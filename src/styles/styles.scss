@@ -1,7 +1,10 @@
 @import "reset";
 @import "var";
 
+@import "../App";
+@import '../Pages/Layout/Layout.scss';
 @import "../Components/Header/Header";
 @import "../Pages/HomePage/HomePage";
+
 
 // @import
